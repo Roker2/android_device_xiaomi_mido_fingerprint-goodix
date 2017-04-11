@@ -17,10 +17,13 @@
 
 #include <errno.h>
 #include <malloc.h>
+#include <stdint.h>
 #include <string.h>
-#include <cutils/log.h>
-#include <hardware/hardware.h>
+
+#include <log/log.h>
+
 #include <hardware/fingerprint.h>
+#include <hardware/hardware.h>
 #include <stdlib.h>
 
 #include "goodix_imp.h"
