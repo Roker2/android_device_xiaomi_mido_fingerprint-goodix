@@ -1,4 +1,4 @@
-# Goodix opensource fingerprint HAL for xiaomi Redmi note 4 (mido) #
+# Goodix Open Source fingerprint HAL for Xiaomi Redmi Note 4 (mido) #
 
 ## License ##
 
